@@ -82,7 +82,7 @@ export default class AppNavbar extends Vue {
   title: string = ''
   items: Array<Object> = [
     {
-      icon: 'mdi-dashboard',
+      icon: 'mdi-view-dashboard',
       title: 'Reportes',
       to: '/'
     },
